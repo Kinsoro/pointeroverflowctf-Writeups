@@ -8,6 +8,7 @@ Writeups and supporting files organized by challenge category.
 - [Web Exploitation](Web/)
 - [Cryptography](Crypto/)
 - [Forensics](Forensics/)
+- [Steganography](Steganography/)
 - [Miscellaneous](Misc/)
 - [Binary Exploitation (Pwn)](Pwn/)
 
